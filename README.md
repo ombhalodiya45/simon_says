@@ -8,7 +8,7 @@ A fun and interactive browser-based memory game inspired by the classic **Simon 
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla)**
+- **JavaScript**
 
 ---
 
